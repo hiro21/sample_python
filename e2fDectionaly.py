@@ -15,3 +15,6 @@ for i, v in e2f.items():
 
 print('output f2e')
 print(f2e)
+
+# call chien by f2e
+print (f2e["chien"])
