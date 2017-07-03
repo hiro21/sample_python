@@ -18,3 +18,7 @@ print(f2e)
 
 # call chien by f2e
 print (f2e["chien"])
+
+# e2f convert set
+e2fSet = set(e2f)
+print (e2fSet)
